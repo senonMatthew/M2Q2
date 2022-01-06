@@ -4,6 +4,7 @@ body {
 	background-color: #232937;
 	font-style: normal;
 	font-weight: 200;
+	margin: 5px 0px;
 }
 
 input::-webkit-outer-spin-button, 
